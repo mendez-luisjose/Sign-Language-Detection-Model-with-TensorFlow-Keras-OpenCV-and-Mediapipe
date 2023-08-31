@@ -13,5 +13,5 @@ Mediapipe detects any Hand from the Image, then is cropped, and last the Model c
 The code to collect any Sign Language Letter Image of the Hand is the `data_collection.ipynb` file and the code of the Model is in the `sign_language_model.ipynb` file.
 
 ## Check-it out
-- Sign Language Detection ModelPreview: https://www.youtube.com/watch?v=pqRB8yQv9lk
+- Sign Language Detection Model Preview: https://www.youtube.com/watch?v=pqRB8yQv9lk
 
